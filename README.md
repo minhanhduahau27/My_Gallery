@@ -1,1 +1,1 @@
-# My_Gallery
+# accessible-photo-gallery
